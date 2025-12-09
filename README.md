@@ -100,7 +100,7 @@ The directory `old_version/` and large packaged builds are **not** part of this 
 ## Notes
 
 - The LAN mode is experimental and may be unstable; the local mode is the primary way to play.
-- All in‑game messages and comments have been translated to English.
+
 
 If you run into issues running the game with LÖVE, open an issue on GitHub with your OS version, LÖVE version, and any error messages from the console.
 
